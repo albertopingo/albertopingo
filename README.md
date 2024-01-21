@@ -4,7 +4,7 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 
 ## About Me
 - 🌐 [Personal Website](In develepment...)
-- 📧 Email: your.email@example.com
+- 📧 Email: albertopingobusiness@gmail.com
 - 🎓 Studying Computer Engineering
 
 ## Projects
