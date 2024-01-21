@@ -9,6 +9,9 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 
 ## Projects
 
+### Personal Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=albertopingo&repo=cyber-canvas&theme=transparent)](https://github.com/albertopingo/cyber-canvas)
+
 ### Collegue Projects
 - [Programming 1 Project](https://github.com/albertopingo/group_P1_CollegueClassManager): Console App in C for Managing collegue classes
 
