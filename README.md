@@ -25,7 +25,7 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 
 
 ## Contribution Activity
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=albertopingo&count_private=true&show_icons=true&theme=radical)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=albertopingo&count_private=true&show_icons=true&theme=tokyonight)
 
 ### January 2024
 - [Enterprise App Development Project](link-to-DAE-project): 41 commits
