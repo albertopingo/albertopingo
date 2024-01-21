@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**albertopingo/albertopingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 
-Here are some ideas to get you started:
+## About Me
+- 🌐 [Personal Website](In develepment...)
+- 📧 Email: your.email@example.com
+- 🎓 Studying Computer Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### Collegue Projects
+- [Programming 1 Project](https://github.com/albertopingo/group_P1_CollegueClassManager): Console App in C for Managing collegue classes
+
+- [Systems Integration Project](https://github.com/albertopingo/group_IS_IoTmiddleware):
+  - Backend: WebAPI developed in .NET Framework. The API serves as a Middleware for IoT Devices, specifically designed to integrate seamlessly with C# test applications.
+  - Test Apps:
+    - Smart Shutter: A C# test application designed to simulate and interact with smart shutter devices. It utilizes the provided WebAPI for seamless integration and testing of IoT functionalities.
+    - Shutter Switch: Another C# test application acting as a shutter switch, providing a simulated environment to test and validate the interoperability of the WebAPI with diverse IoT devices.
+
+- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp):
+  - Backend: WebAPI developed in Java/Jakarta. The API serves as the backend for an Enterprise App designed to manage smart packages.
+  - Frontend: Client App developed in Vue.js. The frontend application interacts with the backend, providing an intuitive interface for users to manage and monitor smart packages.
+
+
+
+## Contribution Activity
+![GitHub Contribution Graph](link-to-your-contribution-graph-image)
+
+### January 2024
+- [Enterprise App Development Project](link-to-DAE-project): 41 commits
+- [Systems Integration Project](link-to-IS-project): 20 commits
+- [Personal Repository](link-to-personal-repo): x commits
+
+## Achievements
+- 🏆 Achievement: YOLO
+- 🦈 Achievement: Pull Shark
