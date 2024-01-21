@@ -7,7 +7,9 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 - 📧 Email: albertopingobusiness@gmail.com
 - 🎓 Studying Computer Engineering
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertopingo&theme=transparent)](https://github.com/albertopingo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertopingo&hide_progress=true&theme=transparent)](https://github.com/albertopingo/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pingo&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 
