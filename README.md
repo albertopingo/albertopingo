@@ -1,15 +1,16 @@
 # Hi there! 👋
 
+# About Me
+
 I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 
-## About Me
 - 🌐 [Personal Website](In develepment...)
 - 📧 Email: albertopingobusiness@gmail.com
 - 🎓 Studying Computer Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertopingo&hide_progress=true&theme=transparent)](https://github.com/albertopingo/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pingo&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+#
 
 ## Projects
 
@@ -19,27 +20,36 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 ### Collegue Projects
 - [Programming 1 Project](https://github.com/albertopingo/group_P1_CollegueClassManager): Console App in C for Managing collegue classes
 
-- [Systems Integration Project](https://github.com/albertopingo/group_IS_IoTmiddleware):
-  - Backend: WebAPI developed in .NET Framework. The API serves as a Middleware for IoT Devices, specifically designed to integrate seamlessly with C# test applications.
-  - Test Apps:
-    - Smart Shutter: A C# test application designed to simulate and interact with smart shutter devices. It utilizes the provided WebAPI for seamless integration and testing of IoT functionalities.
-    - Shutter Switch: Another C# test application acting as a shutter switch, providing a simulated environment to test and validate the interoperability of the WebAPI with diverse IoT devices.
+- [Systems Integration Project](https://github.com/albertopingo/group_IS_IoTmiddleware):  
+  Middleware serving as a central hub for diverse systems. The .NET Framework-based WebAPI acts as an IoT middleware, connecting with any app through API and MQTT subscription. Two C# test applications were developed:
+    - Smart Shutter: Simulates and interacts with smart shutter devices using the WebAPI for seamless IoT testing.
+    - Shutter Switch: Simulates a shutter switch, validating interoperability with diverse IoT devices. This project focuses on efficient data exchange using XML.
 
-- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp): (*will redo this project alone*)
+  **Main Concepts:**
+  - IoT Middleware
+  - .NET Framework
+  - WebAPI
+  - MQTT Services
+  - C# Test Applications
+  - Efficient Data Exchange (XML)
+  - Real-time and Historical Data Accessibility
+
+
+- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp): (*will redo*)  
+  Application for managing distribution from manufacturer, through the logistics operators, to consumer with quality control sensors.
   - Backend: WebAPI developed in Java/Jakarta. The API serves as the backend for an Enterprise App designed to manage smart packages.
   - Frontend: Client App developed in Vue.js. The frontend application interacts with the backend, providing an intuitive interface for users to manage and monitor smart packages.
-
-
+  
+  **Main Concepts:**
+  - Enterprise App
+  - Java/Jakarta WebAPI
+  - Vue.js Frontend
+  - Distribution Management
+  - Quality Control Sensors
+  - Entity Relations
+  - Real-time and Historical Data Accessibility
 
 ## Contribution Activity
 ![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=albertopingo&count_private=true&show_icons=true&theme=transparent&hide=stars,contribs)
 
-
-### January 2024
-- [Enterprise App Development Project](link-to-DAE-project): 41 commits
-- [Systems Integration Project](link-to-IS-project): 20 commits
-- [Personal Repository](link-to-personal-repo): x commits
-
-## Achievements
-- 🏆 Achievement: YOLO
-- 🦈 Achievement: Pull Shark
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pingo&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
