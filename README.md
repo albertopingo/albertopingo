@@ -25,7 +25,7 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
     - Smart Shutter: A C# test application designed to simulate and interact with smart shutter devices. It utilizes the provided WebAPI for seamless integration and testing of IoT functionalities.
     - Shutter Switch: Another C# test application acting as a shutter switch, providing a simulated environment to test and validate the interoperability of the WebAPI with diverse IoT devices.
 
-- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp):
+- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp): (*will redo this project alone*)
   - Backend: WebAPI developed in Java/Jakarta. The API serves as the backend for an Enterprise App designed to manage smart packages.
   - Frontend: Client App developed in Vue.js. The frontend application interacts with the backend, providing an intuitive interface for users to manage and monitor smart packages.
 
