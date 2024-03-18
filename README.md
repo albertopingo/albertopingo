@@ -4,7 +4,7 @@
 
 I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
 
-- 🌐 [Personal Website](In develepment...)
+- 🌐 [Personal Website](...)
 - 📧 Email: albertopingobusiness@gmail.com
 - 🎓 Studying Computer Engineering
 
@@ -35,7 +35,7 @@ I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
   - Real-time and Historical Data Accessibility
 
 
-- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp): (*will redo*)  
+- [Enterprise App Development Project](https://github.com/albertopingo/group_DAE_SmartPackagesApp):
   Application for managing distribution from manufacturer, through the logistics operators, to consumer with quality control sensors.
   - Backend: WebAPI developed in Java/Jakarta. The API serves as the backend for an Enterprise App designed to manage smart packages.
   - Frontend: Client App developed in Vue.js. The frontend application interacts with the backend, providing an intuitive interface for users to manage and monitor smart packages.
