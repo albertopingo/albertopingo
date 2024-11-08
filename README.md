@@ -2,11 +2,12 @@
 
 # About Me
 
-I'm Alberto Pingo, currently pursuing a degree in Computer Engineering.
+
+I'm Alberto Pingo, a Computer Engineering student from Portugal, currently in my final stages of completing my degree—just two courses away from graduation (168 out of 180 ECTS). I'm always eager to expand my knowledge and work on exciting projects.
 
 - 🌐 [Personal Website](...)
-- 📧 Email: albertopingobusiness@gmail.com
-- 🎓 Studying Computer Engineering
+- 📧 Email: albertopingo@proton.me
+- 🎓 Degree in progress: Computer Engineering
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertopingo&hide_progress=true&theme=transparent)](https://github.com/albertopingo/github-readme-stats)
 
