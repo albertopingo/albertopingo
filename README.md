@@ -4,7 +4,7 @@
 
 I'm Alberto Pingo, a Computer Engineering student from Portugal, currently in my final stages of completing my degree—just two courses away from graduation (168 out of 180 ECTS). I'm always eager to expand my knowledge and work on exciting projects.
 
-- 🌐 [Personal Website](albertopingo.com)
+- 🌐 [Personal Website](https://albertopingo.com)
 - 📧 Email: contact@albertopingo.pt
 - 🎓 Degree in progress: Computer Engineering
 
